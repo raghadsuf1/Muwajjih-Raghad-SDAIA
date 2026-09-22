@@ -102,3 +102,4 @@ This project was completed as part of the SDA-AIE-113 — Software Engineering P
 The portfolio demonstrates the practical application of software engineering practices for AI systems — building a production-style AI/ML service through clean architecture, a well-defined API contract, containerization, a layered automated testing suite, a CI/CD pipeline with branch protection, and safe configuration, secrets, and logging management.
 
 Official SDAIA Academy GitHub: https://github.com/SDAIAAcademy
+<-C branch protection test -->
